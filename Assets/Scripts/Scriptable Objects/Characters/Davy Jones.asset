@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eccde7fdc2efc8b4eb97b9cb02e8ef47, type: 3}
+  m_Name: Davy Jones
+  m_EditorClassIdentifier: 
+  icon: {fileID: 392284560, guid: 3bd5b82c09a28c348a51b4d8638171ac, type: 3}
+  name: Boat
+  startingWeapon: {fileID: 6849493475664600043, guid: 814b82e63f31edb4bae6f82c6655bc26, type: 3}
+  maxHealth: 1000
+  recovery: 5
+  moveSpeed: 10
+  might: 1
+  projectileSpeed: 0
+  magnet: 1.6
